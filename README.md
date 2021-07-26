@@ -1,1 +1,4 @@
 # Pakistan
+
+
+pkg install git
